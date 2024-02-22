@@ -31,5 +31,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=BishopVK&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
