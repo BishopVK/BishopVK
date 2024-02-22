@@ -2,7 +2,7 @@
 <h3 align="left">Passionate graphic designer with a love for technology.</h3>
 
 # 💫About Me :
-![Banner](https://www.fundaciontelefonica.com/wp-content/uploads/2022/06/42-banner-e1655923735810.jpg)
+![Banner](https://github.com/BishopVK/BishopVK/blob/main/42-banner.jpg)
 - 🌱 I’m currently learning **Linux, Git and C in 42**
 
 - 💬 Ask me about **Front-end design and C programming**
