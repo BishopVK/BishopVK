@@ -18,9 +18,9 @@
 ## 🌐Socials
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danieljimenezgraindorge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-jim%C3%A9nez-graindorge-10582150/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/grain_) -->
 
-<a href="https://instagram.com/danieljimenezgraindorge" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/daniel-jim%C3%A9nez-graindorge-10582150/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</a>
-<a href="https://twitter.com/grain_" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)</a>
+<a href="https://instagram.com/danieljimenezgraindorge" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/daniel-jim%C3%A9nez-graindorge-10582150/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://x.com/Grain_" target="_blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
 <a href="mailto:danielgraindorge@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 # 💻Tech Stack
