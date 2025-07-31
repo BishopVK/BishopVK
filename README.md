@@ -11,7 +11,7 @@
 
 <!-- - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/14Xea7BIkPWYoE5pXPSPCnySn77rHSYGJ/view?usp=sharing) -->
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14Xea7BIkPWYoE5pXPSPCnySn77rHSYGJ/view?usp=sharing" target="_blank">My CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1t8gA9dDbmaRefdJZX7X3W1CXb3mwbe7E/view?usp=drive_link" target="_blank">My CV</a>
 
 - ⚡ Fun fact **Designer, programmer and Rollerblader!!**
 
